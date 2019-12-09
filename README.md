@@ -5,3 +5,6 @@
 
 
 input 'g' to send png
+
+
+press '0' to end connection
